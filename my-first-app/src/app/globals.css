@@ -1,0 +1,22 @@
+/* for 404 page */
+*{                      
+    margin: 0px;                      
+    padding: 0px
+    
+}
+/* for not-found jsx fill */
+.NotFound{                          
+    color: red;
+     background-color: aqua; 
+    text-align: center;
+    margin-top: 50vh;
+}
+.navbar li{
+    margin-top: 20px;
+    font-size: 20px;
+    color: green;
+}
+
+.active{
+    color: aqua;
+}
